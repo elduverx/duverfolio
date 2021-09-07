@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/duverfolio/static/css/main.f6c0cedf.chunk.css",
+    "main.js": "/duverfolio/static/js/main.76b9f71e.chunk.js",
+    "main.js.map": "/duverfolio/static/js/main.76b9f71e.chunk.js.map",
+    "runtime-main.js": "/duverfolio/static/js/runtime-main.54ada840.js",
+    "runtime-main.js.map": "/duverfolio/static/js/runtime-main.54ada840.js.map",
+    "static/js/2.83643217.chunk.js": "/duverfolio/static/js/2.83643217.chunk.js",
+    "static/js/2.83643217.chunk.js.map": "/duverfolio/static/js/2.83643217.chunk.js.map",
+    "static/js/3.9c830f30.chunk.js": "/duverfolio/static/js/3.9c830f30.chunk.js",
+    "static/js/3.9c830f30.chunk.js.map": "/duverfolio/static/js/3.9c830f30.chunk.js.map",
+    "index.html": "/duverfolio/index.html",
+    "static/css/main.f6c0cedf.chunk.css.map": "/duverfolio/static/css/main.f6c0cedf.chunk.css.map",
+    "static/js/2.83643217.chunk.js.LICENSE.txt": "/duverfolio/static/js/2.83643217.chunk.js.LICENSE.txt",
+    "static/media/folioo.png": "/duverfolio/static/media/folioo.fe987f99.png",
+    "static/media/resume.pdf": "/duverfolio/static/media/resume.c860e818.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ada840.js",
+    "static/js/2.83643217.chunk.js",
+    "static/css/main.f6c0cedf.chunk.css",
+    "static/js/main.76b9f71e.chunk.js"
+  ]
+}
