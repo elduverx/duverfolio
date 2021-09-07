@@ -1,0 +1,45 @@
+export const ProjectData= [
+    {
+        id:1,
+        title: "Restaurant-menu",
+        about: "this project was created to apply design, transition and skills improved.",
+        tags: ["HTML", "CSS","JS"],
+        demo: "https://elduverx.github.io/restaurantproject/#home",
+        github: "https://github.com/elduverx/restaurantproject",
+        image: "https://i.imgur.com/CX2Hghd.png",
+    },
+    {
+        id:2,
+        title: "L'amore Studio Web",
+        about: "Single react application, to show the capacity of react and scss as design, in this page you can watch the structure and slides applied.",
+        tags: ["HTML", "SCSS","JS","React"],
+        demo: "https://elduverx.github.io/lamorestudio/",
+        github: "https://github.com/elduverx/lamorestudio",
+        image: "https://i.imgur.com/7q4eale.png",
+    },
+    {
+        id:3,
+        title: "Blog",
+        about: "This is my personal blog...",
+        tags: ["HTML","JS","React","NodeJS","Express","CSS"],
+        github: "https://github.com/elduverx/react-blog",
+        image: "https://i.imgur.com/slVOjZk.png", 
+    },
+    {
+        id:4,
+        title: "Web News",
+        about: "This were my first project made, contain transitions, overview & links to follow.",
+        tags: ["HTML","JS","BootStrap5","CSS"],
+        demo: "https://elduverx.github.io/WEBSITE-1/#",
+        github: "https://github.com/elduverx/WEBSITE-1",
+        image: "https://i.imgur.com/XUmTcjT.png",
+    },
+    {
+        id:5,
+        title: "Sneaker-Commerce",
+        about: "Is a Project in process, i'm doing an E-commerce with MERN stack.",
+        tags: ["React","JS","Node","MongoDB","Express","CSS"],
+        github: "https://github.com/elduverx/ecommercesneaker",
+        image: "https://i.imgur.com/n2kmYo8.png",
+    }
+]
