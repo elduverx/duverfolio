@@ -1,15 +1,48 @@
 export const ProjectData= [
     {
         id:1,
+        title: "Netflix Swift iOS - UIKIT",
+        about: "In general, a Netflix clone made with UIKit would be a modern and stylish video streaming application that provides a high-quality viewing experience to iOS device users. 'Home', 'TV Shows', 'Movies', 'My List', and 'Search'. Users could scroll through these sections to find the content they want to watch and then select a movie or an episode of a series to play it.",
+        tags: ["SWIFT", "UIKIT","XCODE"],
+        demo: "https://media0.giphy.com/media/YPvkF1R9huh3vhIl7d/giphy.gif",
+        github: "https://github.com/elduverx/netflixclone",
+        image: "https://lovingseries.files.wordpress.com/2014/04/netflix-image.png",
+    }, {
+        id:2,
+        title: "Carousel photo Picker",
+        about: "this project was created on the way to use coreData to handle images arround one view.",
+        tags: ["SWIFT", "UIKIT","XCODE"],
+        demo: "https://github.com/elduverx/showImagesIOS.git",
+        github: "https://github.com/elduverx/showImagesIOS.git",
+        image: "https://innovationm.co/wp-content/uploads/2017/02/Image-Picker.png",
+    }, {
+        id:3,
+        title: "Who is That Pokemon",
+        about: "MVVM Arquitecture applied, in this project you must know what is the pokemon hidden.",
+        tags: ["SWIFT", "UIKIT","ALAMOFIRE","KINGFISHER"],
+        demo: "https://i.imgur.com/ik39eoB.mp4",
+        github: "",
+        image: "https://cdn.vox-cdn.com/thumbor/-famZFxgMFo2h1HQ5UjIIcBszrI=/0x0:1920x1080/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/53254027/who_pokemon.0.jpg",
+    },{
+        id:0,
+        title: "Youtube",
+        about: "I have designed the user interface of the application using UIKit, a popular UI framework for iOS development. The application is built using the YouTube API, which provides access to video content, channel information, and user data a framework provided by Apple for playing audio and video. The application supports basic playback controls such as play, pause, and seek, and also includes a full-screen mode.    To provide users with a personalized experience, I have implemented user authentication using the YouTube API, which allows users to sign in to their YouTube accounts and access their playlists, subscriptions, and history. ",
+        tags: ["KINGFISHER", "SWIFT","UIKIT"],
+        demo: "",
+        github: "https://github.com/elduverx/YoutubeSwift",
+        image: "https://www.youtube.com/img/desktop/yt_1200.png",
+    }, {
+        id:4,
         title: "Restaurant-menu",
         about: "this project was created to apply design, transition and skills improved.",
         tags: ["HTML", "CSS","JS"],
         demo: "https://elduverx.github.io/restaurantproject/#home",
         github: "https://github.com/elduverx/restaurantproject",
         image: "https://i.imgur.com/CX2Hghd.png",
-    },
+    }
+     ,
     {
-        id:2,
+        id:5,
         title: "L'amore Studio Web",
         about: "Single react application, to show the capacity of react and scss as design, in this page you can watch the structure and slides applied.",
         tags: ["HTML", "SCSS","JS","React"],
@@ -18,7 +51,7 @@ export const ProjectData= [
         image: "https://i.imgur.com/7q4eale.png",
     },
     {
-        id:3,
+        id:6,
         title: "Blog",
         about: "This is my personal blog...",
         tags: ["HTML","JS","React","NodeJS","Express","CSS"],
@@ -26,7 +59,7 @@ export const ProjectData= [
         image: "https://i.imgur.com/slVOjZk.png", 
     },
     {
-        id:4,
+        id:7,
         title: "Web News",
         about: "This were my first project made, contain transitions, overview & links to follow.",
         tags: ["HTML","JS","BootStrap5","CSS"],
@@ -35,7 +68,7 @@ export const ProjectData= [
         image: "https://i.imgur.com/XUmTcjT.png",
     },
     {
-        id:5,
+        id:8,
         title: "Sneaker-Commerce",
         about: "Is a Project in process, i'm doing an E-commerce with MERN stack.",
         tags: ["React","JS","Node","MongoDB","Express","CSS"],

@@ -1,7 +1,7 @@
 export const SocialData = [
     {
         platform:"Instagram",
-        link:"https://www.instagram.com/duver98/",
+        link:"https://www.instagram.com/elduverxdev/",
         icon: require('../../assets/icons/instagram.png').default,
     },
     {
@@ -22,7 +22,7 @@ export const SocialData = [
 
     {
         platform: "Whatsapp",
-        link: "https://api.whatsapp.com/send/?phone=%2B573138301950&text&app_absent=0",
+        link: "https://api.whatsapp.com/send/?phone=%2B34695255088&text&app_absent=0",
         icon: require('../../assets/icons/whatsapp.png').default,
     },
     

@@ -1,7 +1,7 @@
 export const SkillsData = [
     {   
         _id: "12",
-        title: "Frontend",
+        title: "WEB",
         list: [
             {
                 name: "ReactJS",
@@ -14,29 +14,28 @@ export const SkillsData = [
             {
                 name: "JavaScript",
                 icon: <i class="devicon-javascript-plain colored"></i>
-            },
-            {
-                name: "TypeScript",
-                icon: <i class="devicon-typescript-plain colored"></i>
             }
         ]
     },
     {   
         _id: "13",
-        title: "Backend",
+        title: "Mobile",
         list: [
             {
-                name: "NodeJS",
-                icon: <i class="devicon-nodejs-plain colored"></i>
+                name: "SWIFT",
+                icon:  <i class="devicon-swift-plain colored"></i>
+              
             },
             {
-                name: "MongoDB",
-                icon: <i class="devicon-mongodb-plain colored"></i>
+                name: "XCODE",
+                icon: <i class="devicon-apple-original colored"></i>
+              
             },
             {
-                name: "Express",
-                icon: <i class="devicon-express-original colored"></i>
-            }
+                name: "UIKIT",
+                icon: <i class="devicon-swift-plain "></i>
+              
+            },
 
         ]
     }

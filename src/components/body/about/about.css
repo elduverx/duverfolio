@@ -8,12 +8,13 @@
 }
 .picture{
     height: 420px;
+    width: 420px;
 }
 .about-info{
     font-size: 24px;
 }
 .info-name{
-    color:  rgb(14, 238, 33);
+    color:  rgb(202, 13, 54);
     font-size: 32px;
 }
 @media only screen and (max-width: 720px){

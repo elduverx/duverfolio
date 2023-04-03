@@ -6,10 +6,9 @@ function About() {
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hello There, I am <br/><span className="info-name"> Duver Muriel Dev</span> ,<br/> I'm a Colombian Developer with 1 year of experience in frontend develop, I consider myself an awesome person with a lot of soft and strong skills, I still living in Colombia and i'm 23 years old. I enjoy make friends and code. With me all is laugh and work. and yep, this is me, i hope you enjoy watching my portfolio! :D
-                </div>
+                    Hello There, I am <br/><span className="info-name"> Duverney Muriel Dev</span> ,<br/> I'm a Colombian Developer with 1 year of experience in iOS Development with Swift and UIKit, I consider myself an awesome person with a lot of soft skills, i like ear new ideas and be friendly. all my knowlegde comes from tutorials, bootcamps, reading documentations. on the bottom i left you something about my projects that you can check following the link!         </div>
                 <div className="about-photo">
-                <img src={require('../../../assets/folioo.png').default} className="picture"  alt="yo"/>
+                <img src={require('../../../assets/folioo.gif').default} className="picture"  alt="yo"/>
                 </div>
             </div>
             <div className="about-bottom">
